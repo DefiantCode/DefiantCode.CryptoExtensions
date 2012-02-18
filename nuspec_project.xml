@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<project>
+  <version>1.0.0</version>
+  <description>Extenion methods that wrap some AES and RNG Cryptography framework stuff</description>
+</project>
